@@ -55,8 +55,9 @@ Set up Docker and modify title
 ### build/run
 <img width="427" alt="image" src="https://github.com/user-attachments/assets/cb7fc515-98c3-4cfb-b823-4394d25c4013">
 
-docker build -t flask-app .
-docker run -d -p 5000:5000 --name my-flask-app flask-app
+> docker build -t flask-app .
+
+> docker run -d -p 5000:5000 --name my-flask-app flask-app
 
 
 

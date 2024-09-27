@@ -17,4 +17,13 @@ ___
 
 ___
 
+# ACTIVITY 1.4
 
+## Pt1
+<img width="427" alt="Screenshot 2024-09-26 at 11 16 22 PM" src="https://github.com/user-attachments/assets/6660817e-d2d6-4436-9d2d-97a683736a33">
+
+## Pt2
+<img width="427" alt="Screenshot 2024-09-26 at 11 17 18 PM" src="https://github.com/user-attachments/assets/1a96e437-4331-4930-b579-2b8d55952c94">
+
+## Pt3
+<img width="427" alt="Screenshot 2024-09-26 at 11 40 25 PM" src="https://github.com/user-attachments/assets/0355d27d-76aa-4da5-a0a2-76fe241ce15f">

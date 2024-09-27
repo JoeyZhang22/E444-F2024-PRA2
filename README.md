@@ -50,3 +50,16 @@ Set up Docker and modify title
 
 <img width="427" alt="Screenshot 2024-09-27 at 12 21 47 AM" src="https://github.com/user-attachments/assets/e2ad9647-7a2f-4b9d-81dd-3e7ec340a56d">
 
+
+# ACTIVITY 2.4 
+### build/run
+<img width="427" alt="image" src="https://github.com/user-attachments/assets/cb7fc515-98c3-4cfb-b823-4394d25c4013">
+
+docker build -t flask-app .
+docker run -d -p 5000:5000 --name my-flask-app flask-app
+
+
+
+### site on local host
+<img width="427" alt="Screenshot 2024-09-27 at 1 10 26 AM" src="https://github.com/user-attachments/assets/a1ea51d8-fa24-4ca9-b34d-3b9a9c52bfbe">
+

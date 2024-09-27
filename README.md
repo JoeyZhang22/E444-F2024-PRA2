@@ -27,3 +27,6 @@ ___
 
 ## Pt3
 <img width="427" alt="Screenshot 2024-09-26 at 11 40 25 PM" src="https://github.com/user-attachments/assets/0355d27d-76aa-4da5-a0a2-76fe241ce15f">
+
+## Update email
+<img width="1036" alt="Screenshot 2024-09-26 at 11 42 04 PM" src="https://github.com/user-attachments/assets/b94669a4-a7f8-4308-af2c-935b5ac7beed">

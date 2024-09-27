@@ -43,3 +43,10 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 # ACTIVITY 2.1
 
 Local/Remote github PRA2_2 branch have been setup
+
+# ACTIVITY 2.2, 2.3
+
+Set up Docker and modify title
+
+<img width="427" alt="Screenshot 2024-09-27 at 12 21 47 AM" src="https://github.com/user-attachments/assets/e2ad9647-7a2f-4b9d-81dd-3e7ec340a56d">
+
